@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-class MyImagePage extends StatefulWidget {
-  MyImagePage({Key key, this.title}) : super(key: key);
+class MyImageUrlPage extends StatefulWidget {
+  MyImageUrlPage({Key key, this.title}) : super(key: key);
   final String title;
 
   @override
-  _MyImagePageState createState() => _MyImagePageState();
+  _MyImageUrlPageState createState() => _MyImageUrlPageState();
 }
 
-class _MyImagePageState extends State<MyImagePage> {
+class _MyImageUrlPageState extends State<MyImageUrlPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
