@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_image/image_sample.dart';
-import 'package:flutter_image/imageurl_sample.dart';
+import 'package:flutter_image/image_assets.dart';
+import 'package:flutter_image/image_url.dart';
 
 void main() => runApp(ImageApp());
 
