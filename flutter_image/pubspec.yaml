@@ -21,4 +21,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/tv_talk.png
+    - images/tv_talk.png
