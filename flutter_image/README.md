@@ -7,3 +7,8 @@ Samples of displaying an image with Flutter
 
 assetsから画像を持ってくるだけのサンプル  
 Image from assets
+
+## imageurl_sample.dart > MyImageUrlPageState
+
+インターネットから画像を持ってくるだけのサンプル  
+Image from network
