@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_image/image_sample.dart';
+import 'package:flutter_image/imageurl_sample.dart';
 
 void main() => runApp(ImageApp());
 
@@ -12,7 +13,7 @@ class ImageApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: MyImagePage(title: 'Image from assets'),
-      // home: MyImagePage(title: 'Image from url'),
+      // home: MyImageUrlPage(title: 'Image from url'),
     );
   }
 }
