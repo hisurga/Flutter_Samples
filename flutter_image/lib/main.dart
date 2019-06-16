@@ -12,6 +12,7 @@ class ImageApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: MyImagePage(title: 'Image from assets'),
+      // home: MyImagePage(title: 'Image from url'),
     );
   }
 }
