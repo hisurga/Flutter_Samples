@@ -16,7 +16,7 @@ class _MyImagePageState extends State<MyImagePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: Image.asset('assets/tv_talk.png'),
+        child: Image.asset('images/tv_talk.png'),
       ),
     );
   }
