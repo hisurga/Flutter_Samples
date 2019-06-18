@@ -14,11 +14,11 @@ class ImageApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      // home: MyImagePage(title: 'Image from assets'),
+      home: MyImagePage(title: 'Image from assets'),
       // home: MyImageUrlPage(title: 'Image from url'),
       // home: MyImageFadeinPage(title: 'Image from url with placeholder'),
-      home:
-          MyImageCachednetworkPage(title: 'Image from url with cachednetwork'),
+      // home:
+      //  MyImageCachednetworkPage(title: 'Image from url with cachednetwork'),
     );
   }
 }
